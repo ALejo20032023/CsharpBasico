@@ -1,0 +1,15 @@
+C:\Users\jmora\OneDrive\Escritorio\CSHARP BASICO\using\bin\Debug\net6.0\using.exe
+C:\Users\jmora\OneDrive\Escritorio\CSHARP BASICO\using\bin\Debug\net6.0\using.deps.json
+C:\Users\jmora\OneDrive\Escritorio\CSHARP BASICO\using\bin\Debug\net6.0\using.runtimeconfig.json
+C:\Users\jmora\OneDrive\Escritorio\CSHARP BASICO\using\bin\Debug\net6.0\using.dll
+C:\Users\jmora\OneDrive\Escritorio\CSHARP BASICO\using\bin\Debug\net6.0\using.pdb
+C:\Users\jmora\OneDrive\Escritorio\CSHARP BASICO\using\obj\Debug\net6.0\using.csproj.AssemblyReference.cache
+C:\Users\jmora\OneDrive\Escritorio\CSHARP BASICO\using\obj\Debug\net6.0\using.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmora\OneDrive\Escritorio\CSHARP BASICO\using\obj\Debug\net6.0\using.AssemblyInfoInputs.cache
+C:\Users\jmora\OneDrive\Escritorio\CSHARP BASICO\using\obj\Debug\net6.0\using.AssemblyInfo.cs
+C:\Users\jmora\OneDrive\Escritorio\CSHARP BASICO\using\obj\Debug\net6.0\using.csproj.CoreCompileInputs.cache
+C:\Users\jmora\OneDrive\Escritorio\CSHARP BASICO\using\obj\Debug\net6.0\using.dll
+C:\Users\jmora\OneDrive\Escritorio\CSHARP BASICO\using\obj\Debug\net6.0\refint\using.dll
+C:\Users\jmora\OneDrive\Escritorio\CSHARP BASICO\using\obj\Debug\net6.0\using.pdb
+C:\Users\jmora\OneDrive\Escritorio\CSHARP BASICO\using\obj\Debug\net6.0\using.genruntimeconfig.cache
+C:\Users\jmora\OneDrive\Escritorio\CSHARP BASICO\using\obj\Debug\net6.0\ref\using.dll

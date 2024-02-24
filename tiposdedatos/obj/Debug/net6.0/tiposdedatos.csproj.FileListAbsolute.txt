@@ -1,0 +1,15 @@
+C:\Users\jmora\OneDrive\Escritorio\CSHARP BASICO\tiposdedatos\bin\Debug\net6.0\tiposdedatos.exe
+C:\Users\jmora\OneDrive\Escritorio\CSHARP BASICO\tiposdedatos\bin\Debug\net6.0\tiposdedatos.deps.json
+C:\Users\jmora\OneDrive\Escritorio\CSHARP BASICO\tiposdedatos\bin\Debug\net6.0\tiposdedatos.runtimeconfig.json
+C:\Users\jmora\OneDrive\Escritorio\CSHARP BASICO\tiposdedatos\bin\Debug\net6.0\tiposdedatos.dll
+C:\Users\jmora\OneDrive\Escritorio\CSHARP BASICO\tiposdedatos\bin\Debug\net6.0\tiposdedatos.pdb
+C:\Users\jmora\OneDrive\Escritorio\CSHARP BASICO\tiposdedatos\obj\Debug\net6.0\tiposdedatos.csproj.AssemblyReference.cache
+C:\Users\jmora\OneDrive\Escritorio\CSHARP BASICO\tiposdedatos\obj\Debug\net6.0\tiposdedatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmora\OneDrive\Escritorio\CSHARP BASICO\tiposdedatos\obj\Debug\net6.0\tiposdedatos.AssemblyInfoInputs.cache
+C:\Users\jmora\OneDrive\Escritorio\CSHARP BASICO\tiposdedatos\obj\Debug\net6.0\tiposdedatos.AssemblyInfo.cs
+C:\Users\jmora\OneDrive\Escritorio\CSHARP BASICO\tiposdedatos\obj\Debug\net6.0\tiposdedatos.csproj.CoreCompileInputs.cache
+C:\Users\jmora\OneDrive\Escritorio\CSHARP BASICO\tiposdedatos\obj\Debug\net6.0\tiposdedatos.dll
+C:\Users\jmora\OneDrive\Escritorio\CSHARP BASICO\tiposdedatos\obj\Debug\net6.0\refint\tiposdedatos.dll
+C:\Users\jmora\OneDrive\Escritorio\CSHARP BASICO\tiposdedatos\obj\Debug\net6.0\tiposdedatos.pdb
+C:\Users\jmora\OneDrive\Escritorio\CSHARP BASICO\tiposdedatos\obj\Debug\net6.0\tiposdedatos.genruntimeconfig.cache
+C:\Users\jmora\OneDrive\Escritorio\CSHARP BASICO\tiposdedatos\obj\Debug\net6.0\ref\tiposdedatos.dll

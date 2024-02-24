@@ -1,0 +1,15 @@
+C:\Users\jmora\OneDrive\Escritorio\CSHARP BASICO\leerTeclado\bin\Debug\net6.0\leerTeclado.exe
+C:\Users\jmora\OneDrive\Escritorio\CSHARP BASICO\leerTeclado\bin\Debug\net6.0\leerTeclado.deps.json
+C:\Users\jmora\OneDrive\Escritorio\CSHARP BASICO\leerTeclado\bin\Debug\net6.0\leerTeclado.runtimeconfig.json
+C:\Users\jmora\OneDrive\Escritorio\CSHARP BASICO\leerTeclado\bin\Debug\net6.0\leerTeclado.dll
+C:\Users\jmora\OneDrive\Escritorio\CSHARP BASICO\leerTeclado\bin\Debug\net6.0\leerTeclado.pdb
+C:\Users\jmora\OneDrive\Escritorio\CSHARP BASICO\leerTeclado\obj\Debug\net6.0\leerTeclado.csproj.AssemblyReference.cache
+C:\Users\jmora\OneDrive\Escritorio\CSHARP BASICO\leerTeclado\obj\Debug\net6.0\leerTeclado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmora\OneDrive\Escritorio\CSHARP BASICO\leerTeclado\obj\Debug\net6.0\leerTeclado.AssemblyInfoInputs.cache
+C:\Users\jmora\OneDrive\Escritorio\CSHARP BASICO\leerTeclado\obj\Debug\net6.0\leerTeclado.AssemblyInfo.cs
+C:\Users\jmora\OneDrive\Escritorio\CSHARP BASICO\leerTeclado\obj\Debug\net6.0\leerTeclado.csproj.CoreCompileInputs.cache
+C:\Users\jmora\OneDrive\Escritorio\CSHARP BASICO\leerTeclado\obj\Debug\net6.0\leerTeclado.dll
+C:\Users\jmora\OneDrive\Escritorio\CSHARP BASICO\leerTeclado\obj\Debug\net6.0\refint\leerTeclado.dll
+C:\Users\jmora\OneDrive\Escritorio\CSHARP BASICO\leerTeclado\obj\Debug\net6.0\leerTeclado.pdb
+C:\Users\jmora\OneDrive\Escritorio\CSHARP BASICO\leerTeclado\obj\Debug\net6.0\leerTeclado.genruntimeconfig.cache
+C:\Users\jmora\OneDrive\Escritorio\CSHARP BASICO\leerTeclado\obj\Debug\net6.0\ref\leerTeclado.dll

@@ -1,0 +1,15 @@
+C:\Users\jmora\OneDrive\Escritorio\CSHARP BASICO\condiciones\bin\Debug\net6.0\condiciones.exe
+C:\Users\jmora\OneDrive\Escritorio\CSHARP BASICO\condiciones\bin\Debug\net6.0\condiciones.deps.json
+C:\Users\jmora\OneDrive\Escritorio\CSHARP BASICO\condiciones\bin\Debug\net6.0\condiciones.runtimeconfig.json
+C:\Users\jmora\OneDrive\Escritorio\CSHARP BASICO\condiciones\bin\Debug\net6.0\condiciones.dll
+C:\Users\jmora\OneDrive\Escritorio\CSHARP BASICO\condiciones\bin\Debug\net6.0\condiciones.pdb
+C:\Users\jmora\OneDrive\Escritorio\CSHARP BASICO\condiciones\obj\Debug\net6.0\condiciones.csproj.AssemblyReference.cache
+C:\Users\jmora\OneDrive\Escritorio\CSHARP BASICO\condiciones\obj\Debug\net6.0\condiciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmora\OneDrive\Escritorio\CSHARP BASICO\condiciones\obj\Debug\net6.0\condiciones.AssemblyInfoInputs.cache
+C:\Users\jmora\OneDrive\Escritorio\CSHARP BASICO\condiciones\obj\Debug\net6.0\condiciones.AssemblyInfo.cs
+C:\Users\jmora\OneDrive\Escritorio\CSHARP BASICO\condiciones\obj\Debug\net6.0\condiciones.csproj.CoreCompileInputs.cache
+C:\Users\jmora\OneDrive\Escritorio\CSHARP BASICO\condiciones\obj\Debug\net6.0\condiciones.dll
+C:\Users\jmora\OneDrive\Escritorio\CSHARP BASICO\condiciones\obj\Debug\net6.0\refint\condiciones.dll
+C:\Users\jmora\OneDrive\Escritorio\CSHARP BASICO\condiciones\obj\Debug\net6.0\condiciones.pdb
+C:\Users\jmora\OneDrive\Escritorio\CSHARP BASICO\condiciones\obj\Debug\net6.0\condiciones.genruntimeconfig.cache
+C:\Users\jmora\OneDrive\Escritorio\CSHARP BASICO\condiciones\obj\Debug\net6.0\ref\condiciones.dll

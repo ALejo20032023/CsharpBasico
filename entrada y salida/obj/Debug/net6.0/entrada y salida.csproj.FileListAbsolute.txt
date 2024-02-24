@@ -1,0 +1,15 @@
+C:\Users\jmora\OneDrive\Escritorio\CSHARP BASICO\entrada y salida\bin\Debug\net6.0\entrada y salida.exe
+C:\Users\jmora\OneDrive\Escritorio\CSHARP BASICO\entrada y salida\bin\Debug\net6.0\entrada y salida.deps.json
+C:\Users\jmora\OneDrive\Escritorio\CSHARP BASICO\entrada y salida\bin\Debug\net6.0\entrada y salida.runtimeconfig.json
+C:\Users\jmora\OneDrive\Escritorio\CSHARP BASICO\entrada y salida\bin\Debug\net6.0\entrada y salida.dll
+C:\Users\jmora\OneDrive\Escritorio\CSHARP BASICO\entrada y salida\bin\Debug\net6.0\entrada y salida.pdb
+C:\Users\jmora\OneDrive\Escritorio\CSHARP BASICO\entrada y salida\obj\Debug\net6.0\entrada y salida.csproj.AssemblyReference.cache
+C:\Users\jmora\OneDrive\Escritorio\CSHARP BASICO\entrada y salida\obj\Debug\net6.0\entrada y salida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmora\OneDrive\Escritorio\CSHARP BASICO\entrada y salida\obj\Debug\net6.0\entrada y salida.AssemblyInfoInputs.cache
+C:\Users\jmora\OneDrive\Escritorio\CSHARP BASICO\entrada y salida\obj\Debug\net6.0\entrada y salida.AssemblyInfo.cs
+C:\Users\jmora\OneDrive\Escritorio\CSHARP BASICO\entrada y salida\obj\Debug\net6.0\entrada y salida.csproj.CoreCompileInputs.cache
+C:\Users\jmora\OneDrive\Escritorio\CSHARP BASICO\entrada y salida\obj\Debug\net6.0\entrada y salida.dll
+C:\Users\jmora\OneDrive\Escritorio\CSHARP BASICO\entrada y salida\obj\Debug\net6.0\refint\entrada y salida.dll
+C:\Users\jmora\OneDrive\Escritorio\CSHARP BASICO\entrada y salida\obj\Debug\net6.0\entrada y salida.pdb
+C:\Users\jmora\OneDrive\Escritorio\CSHARP BASICO\entrada y salida\obj\Debug\net6.0\entrada y salida.genruntimeconfig.cache
+C:\Users\jmora\OneDrive\Escritorio\CSHARP BASICO\entrada y salida\obj\Debug\net6.0\ref\entrada y salida.dll
